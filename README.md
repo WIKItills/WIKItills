@@ -11,7 +11,7 @@
 <pre>
 ██╗   ██╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
 ██║   ██║██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
-╚██╗ ██╔╝██║███████╗███████║███████║██╔██╗ ██║   ██║
+╚██╗ ██╔╝██║███████║███████║███████║██╔██╗ ██║   ██║
  ╚████╔╝ ██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║
   ╚██╔╝  ██║███████║██║  ██║██║  ██║██║ ╚████║   ██║
    ╚═╝   ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝
@@ -31,7 +31,7 @@
 
 <h3><code>vishant@github ~ $ ./links.sh</code></h3>
 
-<p><b>Software Engineer · Full Stack Developer · ERP Developer</b></p>
+<p><b>Software Engineer</b></p>
 
 <a href="https://www.linkedin.com/in/vishantgiri12/">
 <img src="https://img.shields.io/badge/LinkedIn-vishantgiri12-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
