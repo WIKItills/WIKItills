@@ -369,8 +369,8 @@
 <rect class="cell" x="720" y="15" width="12" height="12" fill="#161b22" style="animation-delay: 0.735s;" />
 <rect class="cell" x="720" y="30" width="12" height="12" fill="#161b22" style="animation-delay: 0.75s;" />
 <rect class="cell" x="720" y="45" width="12" height="12" fill="#161b22" style="animation-delay: 0.765s;" />
-<rect class="cell" x="720" y="60" width="12" height="12" fill="#0e4429" style="animation-delay: 0.78s;" />
-<rect class="cell" x="720" y="75" width="12" height="12" fill="#161b22" style="animation-delay: 0.7949999999999999s;" />
+<rect class="cell" x="720" y="60" width="12" height="12" fill="#161b22" style="animation-delay: 0.78s;" />
+<rect class="cell" x="720" y="75" width="12" height="12" fill="#0e4429" style="animation-delay: 0.7949999999999999s;" />
 <rect class="cell" x="720" y="90" width="12" height="12" fill="#161b22" style="animation-delay: 0.8099999999999999s;" />
 <rect class="cell" x="735" y="0" width="12" height="12" fill="#161b22" style="animation-delay: 0.735s;" />
 <rect class="cell" x="735" y="15" width="12" height="12" fill="#161b22" style="animation-delay: 0.75s;" />
@@ -383,21 +383,22 @@
 <rect class="cell" x="750" y="15" width="12" height="12" fill="#161b22" style="animation-delay: 0.765s;" />
 <rect class="cell" x="750" y="30" width="12" height="12" fill="#161b22" style="animation-delay: 0.78s;" />
 <rect class="cell" x="750" y="45" width="12" height="12" fill="#161b22" style="animation-delay: 0.7949999999999999s;" />
-<rect class="cell" x="750" y="60" width="12" height="12" fill="#0e4429" style="animation-delay: 0.8099999999999999s;" />
-<rect class="cell" x="750" y="75" width="12" height="12" fill="#161b22" style="animation-delay: 0.825s;" />
-<rect class="cell" x="750" y="90" width="12" height="12" fill="#0e4429" style="animation-delay: 0.84s;" />
-<rect class="cell" x="765" y="0" width="12" height="12" fill="#161b22" style="animation-delay: 0.765s;" />
+<rect class="cell" x="750" y="60" width="12" height="12" fill="#161b22" style="animation-delay: 0.8099999999999999s;" />
+<rect class="cell" x="750" y="75" width="12" height="12" fill="#0e4429" style="animation-delay: 0.825s;" />
+<rect class="cell" x="750" y="90" width="12" height="12" fill="#161b22" style="animation-delay: 0.84s;" />
+<rect class="cell" x="765" y="0" width="12" height="12" fill="#0e4429" style="animation-delay: 0.765s;" />
 <rect class="cell" x="765" y="15" width="12" height="12" fill="#161b22" style="animation-delay: 0.78s;" />
 <rect class="cell" x="765" y="30" width="12" height="12" fill="#161b22" style="animation-delay: 0.7949999999999999s;" />
 <rect class="cell" x="765" y="45" width="12" height="12" fill="#161b22" style="animation-delay: 0.8099999999999999s;" />
 <rect class="cell" x="765" y="60" width="12" height="12" fill="#161b22" style="animation-delay: 0.825s;" />
-<rect class="cell" x="765" y="75" width="12" height="12" fill="#0e4429" style="animation-delay: 0.84s;" />
-<rect class="cell" x="765" y="90" width="12" height="12" fill="#161b22" style="animation-delay: 0.855s;" />
-<rect class="cell" x="780" y="0" width="12" height="12" fill="#0e4429" style="animation-delay: 0.78s;" />
-<rect class="cell" x="780" y="15" width="12" height="12" fill="#161b22" style="animation-delay: 0.7949999999999999s;" />
+<rect class="cell" x="765" y="75" width="12" height="12" fill="#161b22" style="animation-delay: 0.84s;" />
+<rect class="cell" x="765" y="90" width="12" height="12" fill="#0e4429" style="animation-delay: 0.855s;" />
+<rect class="cell" x="780" y="0" width="12" height="12" fill="#161b22" style="animation-delay: 0.78s;" />
+<rect class="cell" x="780" y="15" width="12" height="12" fill="#0e4429" style="animation-delay: 0.7949999999999999s;" />
 <rect class="cell" x="780" y="30" width="12" height="12" fill="#161b22" style="animation-delay: 0.8099999999999999s;" />
 <rect class="cell" x="780" y="45" width="12" height="12" fill="#161b22" style="animation-delay: 0.825s;" />
 <rect class="cell" x="780" y="60" width="12" height="12" fill="#161b22" style="animation-delay: 0.84s;" />
+<rect class="cell" x="780" y="75" width="12" height="12" fill="#161b22" style="animation-delay: 0.855s;" />
 </g>
 <text class="label" x="690" y="175">Less</text><rect x="720" y="165" width="12" height="12" rx="3" ry="3" fill="#161b22" />
 <rect x="735" y="165" width="12" height="12" rx="3" ry="3" fill="#0e4429" />
